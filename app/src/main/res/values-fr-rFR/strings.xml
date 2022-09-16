@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">IMC 2.0</string>
+    <string name="calculate">calculatrice</string>
+    <string name="bmi">IMC</string>
+    <string name="login">Conection</string>
+    <string name="your_pass">Votre mot de passe</string>
+    <string name="your_email">Votre e-mail</string>
+    <string name="new_user">S\'inscrire</string>
+    <string name="login_name">SENAI</string>
+    <string name="name_user">Nom:</string>
+    <string name="e_mail">E-mail:</string>
+    <string name="password">Mot de passe:</string>
+    <string name="weight">Lester:</string>
+    <string name="height">Hauteur:</string>
+    <string name="create_user">Créer un nouvel utilisateur</string>
+    <string name="new_user_regis">Enregistrement d\'un</string>
+    <string name="text_name_user">Nom</string>
+    <string name="text_e_mail">E-mail</string>
+    <string name="text_password">Mot de passe</string>
+    <string name="text_weight">Lester</string>
+    <string name="text_height">Hauteur</string>
+    <string name="question_text">Allons-nous calculer votre indice de masse corporelle maintenant ?</string>
+    <string name="result_text">C\'est le résultat de votre IMC</string>
+    <string name="overweight">En supoids</string>
+    <string name="obesity1">Obésité | </string>
+    <string name="obesity2">Obésité || </string>
+    <string name="obesity3">Obésité ||| - Morbide</string>
+    <string name="ideal_weight">Poids idéal</string>
+    <string name="underweight">Insuffisance pondérale</string>
+
+
+</resources>
