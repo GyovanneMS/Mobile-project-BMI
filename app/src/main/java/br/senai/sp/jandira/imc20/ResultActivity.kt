@@ -26,6 +26,9 @@ class ResultActivity : AppCompatActivity() {
         if(altura == 0.0f){
             val dados = getSharedPreferences("dados", MODE_PRIVATE);
             altura = dados.getFloat("height", 0.0f);
+        } else {
+            val dados = getSharedPreferences("dados", MODE_PRIVATE);
+            dados.get
         }
 
         val bmi = getBmi(peso, altura.toDouble()).toString().toFloat()
